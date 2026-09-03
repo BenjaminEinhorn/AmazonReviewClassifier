@@ -1,0 +1,1 @@
+We want to construct a binary classification model that predicts Postitive Vs Negative Sentiment from a single review's values for title and text. Note title and text are names of the columns. In the case of ambiguity, append to a new file called ambiguity.md. Do not rely on the rating.  

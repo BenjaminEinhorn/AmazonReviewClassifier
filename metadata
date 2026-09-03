@@ -1,0 +1,13 @@
+This is the metadata for the amazonreviewdata:
+
+rating — the star rating, a number in {1, 2, 3, 4, 5} (encoded as a float, e.g., 4.0 ;
+integral values throughout this dataset).
+title — the short review-issue title.
+text — the review body.
+verified_purchase — boolean, whether the reviewer actually bought the item.
+helpful_vote — integer count of "helpful" votes for the review.
+timestamp — Unix milliseconds when the review was written.
+images — array; image references attached to the review (often empty).
+asin — the product this review is about.
+parent_asin — the product family / parent item.
+user_id — the reviewe
