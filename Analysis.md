@@ -1,0 +1,1 @@
+Compare the predictions of the previous model that used title and text with the ground truth reflected in the ratings. 3 stars is ambiguous. 2 or less is negative. 4 or more is positive. Create a locally hosted dashboard with a confusion matrix. Use Streamlit for it. Show the count and recurring sentiments captured in Ambiguity.md.
